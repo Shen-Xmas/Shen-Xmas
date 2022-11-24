@@ -1,6 +1,6 @@
 ### Hi, Shen-Xmas there :raised_hand_with_fingers_splayed:
 
-| [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#) | [![Stars](https://img.shields.io/github/stars/Shen-Xmas?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#)
+| [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#) | [![Stars](https://img.shields.io/github/stars/Shen-Xmas)](#)
 --| --|
 
 <br />

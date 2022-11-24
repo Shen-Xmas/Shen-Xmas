@@ -19,12 +19,10 @@
 
 ### :ringed_planet: My Projects
 
-[<img align="right" top="20" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&lang_count=8">](https://github.com/Shen-Xmas)
+[<img align="right" top="20" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&lang_count=8">](https://github.com/Shen-Xmas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shen-Xmas&repo=spring-boot-demo)](https://github.com/Shen-Xmas/spring-boot-demo)
 
-<br />
-<br />
 <br />
 
 ### :snowman: My Articles

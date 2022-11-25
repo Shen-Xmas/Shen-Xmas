@@ -7,17 +7,18 @@
 
 :feet: 你好呀, 我是一名软件开发工程师。这是我的个人博客。 :compass: [shen-xmas](https://shen-xmas.github.io/)
 
-[<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&count_private=true&show_icons=true">](https://github.com/Shen-Xmas)
-
 :feet: Hi, I am a software development engineer from China. 
+
+[<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&count_private=true&show_icons=true">](https://github.com/Shen-Xmas)
 
 <br />
 
 -   :hammer_and_wrench: Java / Golang / Python
 -   :e-mail:  navidadshen@foxmail.com
--   :volcano:  [CSDN-司南](https://blog.csdn.net/m0_74142679?type=blog)
--   :sunrise_over_mountains:  [InfoQ-Shen Xmas](https://www.infoq.cn/profile/B9984F3E35D0D3/publish)
--   :wrench:  [稀土掘金-Xmas司南](https://juejin.cn/user/4482055765504792)
+-   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)
+-   :volcano:  [CSDN 司南-](https://blog.csdn.net/m0_74142679?type=blog)
+-   :sunrise_over_mountains:  [InfoQ Shen-Xmas](https://www.infoq.cn/profile/B9984F3E35D0D3/publish)
+-   :wrench:  [稀土掘金 Xmas_司南](https://juejin.cn/user/4482055765504792)
 
 <br />
 

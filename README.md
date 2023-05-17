@@ -13,7 +13,7 @@
 
 <br />
 
--   :hammer_and_wrench: Java / Golang / Python
+-   :hammer_and_wrench: Java / Golang / Python / BigData / DevOps
 -   :e-mail:  navidadshen@foxmail.com
 -   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)
 -   :volcano:  [CSDN 司南-](https://blog.csdn.net/m0_74142679?type=blog)

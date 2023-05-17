@@ -7,7 +7,7 @@
 
 :feet: 你好呀, 我是一名软件开发工程师。这是我的个人博客。 :compass: [shen-xmas](https://shen-xmas.github.io/)
 
-:feet: Hi, I am a software development engineer from China. 
+:feet: Hi, I am a software development engineer from China. This is my personal blog.
 
 [<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&count_private=true&show_icons=true">](https://github.com/Shen-Xmas)
 

@@ -13,7 +13,7 @@
 
 <br />
 
--   :hammer_and_wrench: Java / Golang / Python / BigData / DevOps
+-   :hammer_and_wrench: Java / Golang / Python
 -   :e-mail:  navidadshen@foxmail.com
 -   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)
 -   :volcano:  [CSDN 司南-](https://blog.csdn.net/m0_74142679?type=blog)
@@ -33,7 +33,8 @@
 ### :snowman: My Articles
 ---
 
-[github博客搭建](https://shen-xmas.github.io/2022/11/21/myblog-tutorial/)
+[Kafka单机搭建](https://shen-xmas.github.io/2023/06/16/Kafka%E5%8D%95%E6%9C%BA%E6%90%AD%E5%BB%BA/)
+[schema-registry口令认证配置](https://shen-xmas.github.io/2023/06/16/schema-registry%E5%8F%A3%E4%BB%A4%E8%AE%A4%E8%AF%81%E9%85%8D%E7%BD%AE/)
 
 [......](https://shen-xmas.github.io/)
 

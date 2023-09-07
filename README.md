@@ -9,8 +9,6 @@
 
 :feet: Hi, I am a software development engineer from China. This is my personal blog.
 
-[<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&count_private=true&show_icons=true">](https://github.com/Shen-Xmas)
-
 <br />
 
 -   :hammer_and_wrench: Java / Golang / Python
@@ -23,10 +21,6 @@
 <br />
 
 ### :ringed_planet: My Projects
-
-[<img align="right" top="20" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&lang_count=8">](https://github.com/Shen-Xmas)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shen-Xmas&repo=Spring-Demos)](https://github.com/Shen-Xmas/Spring-Demos)
 
 <br />
 

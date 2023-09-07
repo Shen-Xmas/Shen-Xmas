@@ -29,14 +29,13 @@
 [schema-registry口令认证配置](https://shen-xmas.github.io/2023/06/16/schema-registry%E5%8F%A3%E4%BB%A4%E8%AE%A4%E8%AF%81%E9%85%8D%E7%BD%AE/)
 
 [......](https://shen-xmas.github.io/)  
+---
 
 <br />
 
 
 
 ### :ringed_planet: My Projects
-
-<br />
 
 <!--
 **Shen-Xmas/Shen-Xmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

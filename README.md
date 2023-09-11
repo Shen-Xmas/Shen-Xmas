@@ -16,7 +16,7 @@
 -   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)
 -   :volcano:  [CSDN 百川-](https://blog.csdn.net/m0_74142679?type=blog)
 -   :sunrise_over_mountains:  [InfoQ Shen-Xmas](https://www.infoq.cn/profile/B9984F3E35D0D3/publish)
--   :wrench:  [稀土掘金 Xmas_百川](https://juejin.cn/user/4482055765504792)
+-   :wrench:  [稀土掘金 Xmas_一旦](https://juejin.cn/user/4482055765504792)
 
 <br />
 

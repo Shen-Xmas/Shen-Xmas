@@ -1,4 +1,4 @@
-### Hi, Shen-Xmas there :raised_hand_with_fingers_splayed:
+### Hi, Shen-Xmas there ⛄:
 
 | [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#) | [![Stars](https://img.shields.io/github/stars/Shen-Xmas)](#)
 --| --|

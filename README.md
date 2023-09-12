@@ -11,8 +11,6 @@
 
 <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-<br />
-
 -   :hammer_and_wrench: Java / Golang / Python
 -   :e-mail:  navidadshen@foxmail.com
 -   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)

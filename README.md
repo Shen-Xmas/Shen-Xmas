@@ -1,7 +1,6 @@
-### 🏔️ &emsp; Hi, Shen-Xmas there 
+### Hi, Shen-Xmas there 🪐
 
-| [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#) | [![Stars](https://img.shields.io/github/stars/Shen-Xmas)](#)
---| --|
+&emsp; [![Stars](https://img.shields.io/github/stars/Shen-Xmas)](#) [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#)
 
 <br />
 

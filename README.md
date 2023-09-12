@@ -1,6 +1,15 @@
-### Hi, Shen-Xmas there 🪐
+<h3 align="center">
+  Hi, Shen-Xmas there 🪐
+</h3>
 
-&emsp; [![Stars](https://img.shields.io/github/stars/Shen-Xmas)](#) [![Followers](https://img.shields.io/github/followers/Shen-Xmas)](#)
+<p align="center">
+    <a href="https://github.com/Shen-Xmas/stars">
+      <img alt="stars" src="https://img.shields.io/github/stars/Shen-Xmas" />
+    </a>
+    <a href="https://github.com/Shen-Xmas/followers">
+      <img alt="followers" src="https://img.shields.io/github/followers/Shen-Xmas" />
+    </a>
+</p>
 
 <br />
 

@@ -9,7 +9,7 @@
 
 :feet: Hi, I am a software development engineer from China. This is my personal blog.  :compass: [shen-xmas](https://shen-xmas.github.io/)
 
-<img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+<img width="58%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 -   :hammer_and_wrench: Java / Golang / Python
 -   :e-mail:  navidadshen@foxmail.com

@@ -17,7 +17,7 @@
 
 :feet: 你好呀, 我是一名软件开发工程师。这是我的个人博客。 :compass: [shen-xmas](https://shen-xmas.github.io/)  
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=gruvbox_light" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=moltack" />
 
 
 -   :hammer_and_wrench: Java / Golang / Python

@@ -3,29 +3,54 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/Shen-Xmas/stars">
+    <a href="https://github.com/Shen-Xmas?tab=repositories">
       <img alt="stars" src="https://img.shields.io/github/stars/Shen-Xmas" />
     </a>
-    <a href="https://github.com/Shen-Xmas/followers">
+    <a href="https://github.com/Shen-Xmas?tab=repositories">
       <img alt="followers" src="https://img.shields.io/github/followers/Shen-Xmas" />
     </a>
 </p>
 
+<p align="center">
+  <a>
+    <img alt="email" src="https://img.shields.io/badge/-NavidadShen@foxmail.com-981000?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="">
+    <img alt="facebook" src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ling-shen-058268278/">
+    <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ShenXmas">
+    <img alt="twitter" src="https://img.shields.io/badge/-Twitter-2AAAE2?style=flat&logo=Twitter&logoColor=white&labelColor=2AAAE2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shen-Xmas">
+    <img alt="github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://shen-xmas.github.io">
+    <img alt="blog" src="https://img.shields.io/badge/-Shen Xmas's blog-018D31?style=flat&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/m0_74142679?type=blog">
+    <img alt="csdn" src="https://img.shields.io/badge/-CSDN-D11803?style=flat&logo=C&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/20210645/xmas-shen">
+    <img alt="stackoverflow" src="https://img.shields.io/badge/-StackOverflow-%23FF5722?style=flat&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
+
 <br />
 
-:feet: Hi, I am a software development engineer. This is my personal blog.  :compass: [shen-xmas](https://shen-xmas.github.io/)  
+<p align="center">
+  
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=vue" />  
 
-:feet: 你好呀, 我是一名软件开发工程师。这是我的个人博客。 :compass: [shen-xmas](https://shen-xmas.github.io/)  
+<img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&layout=compact&hide_border=true" />
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=gruvbox_light" />
-
-
--   :hammer_and_wrench: Java / Golang / Python
--   :e-mail:  navidadshen@foxmail.com
--   :dove: [Twitter Shen-Xmas](https://twitter.com/ShenXmas)
--   :volcano:  [CSDN 百川-](https://blog.csdn.net/m0_74142679?type=blog)
--   :sunrise_over_mountains:  [InfoQ Shen-Xmas](https://www.infoq.cn/profile/B9984F3E35D0D3/publish)
--   :wrench:  [稀土掘金 Xmas_一旦](https://juejin.cn/user/4482055765504792)
+</p>
+  
 <!--
 
 <br />

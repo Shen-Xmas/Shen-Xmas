@@ -3,12 +3,15 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/Shen-Xmas?tab=repositories">
-      <img alt="stars" src="https://img.shields.io/github/stars/Shen-Xmas" />
-    </a>
-    <a href="https://github.com/Shen-Xmas?tab=repositories">
-      <img alt="followers" src="https://img.shields.io/github/followers/Shen-Xmas" />
-    </a>
+  <a href="https://github.com/Shen-Xmas?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Shen-Xmas?color=55960c&style=flat&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Shen-Xmas?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Shen-Xmas?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shen-Xmas/">
+    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Shen-Xmas/profile?color=6b105d&labelColor=913e96&style=flat&logo=eye&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">

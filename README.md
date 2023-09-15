@@ -46,7 +46,7 @@
 <p align="center">
   
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Shen-Xmas&show_icons=true&hide_border=true&count_private=true&theme=vue" />  
-<img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&layout=compact&hide_border=true" />
+<img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-Xmas&layout=compact&hide_border=true&hide=HTML,JavaScript,CSS,Dockerfile" />
 
 </p>
   
